@@ -1,5 +1,3 @@
-
-
 # Laravel Note App
 
 This project is a simple Note-taking application built with Laravel. Its main purpose is to help me practice and apply the basics of building CRUD (Create, Read, Update, Delete) applications, as well as to serve as my introduction to PHP and the Laravel framework. This is my first time working with Laravel and PHP.
@@ -16,7 +14,7 @@ I followed a tutorial on YouTube to help guide me through the process of setting
 
 1. **Clone the repository:**
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/xianonnnnn/laravel11-crash-course.git
    cd laravel11-crash-course
    ```
 
